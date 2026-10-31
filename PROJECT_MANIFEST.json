@@ -1,0 +1,15 @@
+{
+  "project": "HomeOS",
+  "version": "0.1.0-starter",
+  "artifact_type": "modular_mvp_scaffold",
+  "file_count": 34,
+  "components": [
+    "android-tv",
+    "android-phone",
+    "raspberry-pi",
+    "firmware",
+    "protocols",
+    "infrastructure",
+    "docs"
+  ]
+}
